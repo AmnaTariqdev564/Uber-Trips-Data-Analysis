@@ -1,4 +1,4 @@
-# Uber Trips Data Analysis 🚖📊
+# Uber Trips Data Analysis 
 
 This project presents a comprehensive analysis of Uber trip data to uncover patterns, trends, and predictive insights that can improve urban mobility and ride-sharing efficiency. It combines data exploration with machine learning to derive actionable intelligence from raw ride data.
 
